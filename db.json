@@ -24,5 +24,31 @@
           "capa":"https://i0.wp.com/popoca.com.br/wp-content/uploads/2018/09/Homemaranha.jpg?fit=1000%2C563&ssl=1",
           "duracao":140
       }   
+  ],
+"series": [
+     {
+          "id": 1,
+          "titulo": "Daredevil",
+          "resumo":"Cego desde pequeno, Matt Murdock luta contra a injustiça durante o dia como advogado e à noite nas ruas de Hell's Kitchen, Nova York. Assista o quanto quiser. Marvel - Demolidor recebeu três indicações ao Emmy em categorias técnicas, incluindo efeitos visuais.",
+          "elenco":"ELENCO: Charlie Cox, Jon Bernthal",
+          "capa":"https://upload.wikimedia.org/wikipedia/pt/c/c6/Daredevil_-_%28poster-T2%29.jpg",
+          "duracao":3
+      },
+      {
+          "id": 2,
+          "titulo": "One Piece",
+          "resumo":"Enredo. A série foca em Monkey D. Luffy, um jovem feito de borracha, que, inspirado em seu ídolo de infância, o poderoso pirata Shanks, o Ruivo, parte em uma jornada do mar do East Blue para encontrar o tesouro mítico, o One Piece, e proclamar-se o Rei dos Piratas.",
+          "elenco":"ELENCO: Iñaki Godoy, J.J. Jr. Mackenyu",
+          "capa":"https://s2-techtudo.glbimg.com/hQNOlNI-AhLCTQOVz80x4tObjys=/0x0:1280x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/Q/J/BRGwUNSjy67yA8F6K9Pw/one-piece-netflix-series-adaptation-live-action-1280x720-1.jpg",
+          "duracao":120
+      },
+      {
+          "id": 3,
+          "titulo": "Baki o campeão",
+          "resumo":"Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai, cinco condenados à pena de morte partem para Tóquio para acabar com ele. Assista o quanto quiser.",
+          "elenco":"ELENCO: Steven Blum, Kirk Thornton",
+          "capa":"https://static.wikia.nocookie.net/dublagem/images/4/4f/Baki_Hanma.jpg/revision/latest?cb=20211001174926&path-prefix=pt-br",
+          "duracao":140
+      }   
   ]
 }
